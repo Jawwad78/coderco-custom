@@ -19,5 +19,8 @@
   "homepage": "https://github.com/Jawwad78/coderco-custom#readme",
   "dependencies": {
     "@actions/core": "^1.11.1"
+  },
+  "devDependencies": {
+    "@vercel/ncc": "^0.38.4"
   }
 }
